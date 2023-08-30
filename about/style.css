@@ -1,12 +1,33 @@
-.text{
+h1{
     display: flex;
     text-align: center;
     flex-direction: column;
      justify-content: center;
      animation: fadeInScale 1s ease;
      text-align: center;
-    
-    
+    margin-top: 20px;  
+    margin-bottom: 10px;  
+}
+p{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+     justify-content: center;
+     animation: fadeInScale 1s ease;
+     text-align: center;
+}
+.content :hover {
+    color: #bbb;
+
+}
+.content a {
+     animation: fadeIn 1s ease;
+    transition: color 0.2s ease;
+    cursor: pointer;
+}
+
+.content a:hover{
+    color: var(--accent)
 }
 @keyframes fadeInScale {
     from {
