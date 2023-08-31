@@ -16,7 +16,7 @@ p{
      animation: fadeInScale 1s ease;
      text-align: center;
 }
-.content :hover {
+a :hover {
     color: #bbb;
 
 }
