@@ -2,10 +2,10 @@
     display: flex;
     text-align: center;
     flex-direction: column;
-     animation: fadeInScale 1s ease;
+    animation: fadeInScale 1s ease;
     margin-top: 15px;  
     margin-bottom: 10px;
-    overflow-y: scroll;  
+    overflow-y: scroll !important;  
 }
 @keyframes fadeInScale {
     from {
