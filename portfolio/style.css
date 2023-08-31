@@ -4,7 +4,6 @@
     flex-direction: column;
     animation: fadeInScale 1s ease;
     margin-top: 15px;  
-    margin-bottom: 10px;
     overflow-y: scroll !important;  
 }
 @keyframes fadeInScale {
@@ -22,5 +21,15 @@
     width: 25%;
     height: auto;
     margin-left: 30px;
+    margin-top: 10px;
+    margin-right: 265px;
     border-radius: 10px;
 }
+.artwork-2 {
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
