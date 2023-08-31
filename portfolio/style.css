@@ -1,12 +1,11 @@
-h1{
+.content{
     display: flex;
     text-align: center;
     flex-direction: column;
-     justify-content: center;
      animation: fadeInScale 1s ease;
-     text-align: center;
-    margin-top: 20px;  
-    margin-bottom: 10px;  
+    margin-top: 15px;  
+    margin-bottom: 10px;
+    overflow-y: scroll;  
 }
 @keyframes fadeInScale {
     from {
@@ -18,4 +17,8 @@ h1{
         opacity: 1;
         transform: scale(1);
     }
+}
+.artwork-1 {
+    width: 25%;
+    height: auto;
 }

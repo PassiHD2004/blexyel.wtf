@@ -1,5 +1,7 @@
 .content{
-     animation: fadeInScale 1s ease;   
+     animation: fadeInScale 1s ease;
+     margin-right: auto;
+     margin-left: 30px;
 }
 @keyframes fadeInScale {
     from {
@@ -16,17 +18,22 @@
 .twitter {
     display: flex;
     text-align: center;
-    padding-top: 50px;
+    margin-top: 40px;
 }
 .mail {
     display: flex;
     text-align: center;
-    padding-top: 50px;
+    margin-top: 40px;
 }
 .discord {
     display: flex;
     text-align: center;
-    padding-top: 50px;
+    margin-top: 40px;
+}
+.ko-fi {
+    display: flex;
+    text-align: center;
+    margin-top: 40px;
 }
 img {
     display: flex;
