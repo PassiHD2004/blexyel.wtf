@@ -21,4 +21,6 @@
 .artwork-1 {
     width: 25%;
     height: auto;
+    margin-left: 30px;
+    border-radius: 10px;
 }
