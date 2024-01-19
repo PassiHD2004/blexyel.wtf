@@ -7,9 +7,9 @@
 
 :root {
     --background: #222831;
-    --background-2: #393e46;
-    --primary: #eee;
-    --accent: #a57ae0;
+    --background-2: #00ff26;
+    --primary: #cdd6f4;
+    --accent: #fab387;
 }
 
 * {
@@ -28,7 +28,7 @@ body {
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    background-color: var(--background);
+    background-color: #1e1e2e;
     color: var(--primary);
 }
 
