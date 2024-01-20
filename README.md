@@ -1,3 +1,3 @@
-# Star websit
+# pingusmc website
 
 shut up github
