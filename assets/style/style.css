@@ -1,9 +1,9 @@
 @import url("./nav.css");
 
 @font-face {
-    font-family: 'Axion';
-    src: url("/assets/font/Axion.ttf");
-}
+  font-family: 'opendyslexic';
+	src: url('/assets/font/OpenDyslexic-Regular.otf');
+} 
 
 :root {
     --background: #222831;
@@ -20,7 +20,7 @@
 }
 
 body {
-    font-family: 'Axion';
+    font-family: 'opendyslexic';
     display: flex;
     flex-direction: column;
     align-items: center;
