@@ -15,6 +15,16 @@
     }
 }
 
+.gitea {
+    display: flex;
+    text-align: center;
+    margin-top: 40px;
+}
+.github {
+    display: flex;
+    text-align: center;
+    margin-top: 40px;
+}
 .twitter {
     display: flex;
     text-align: center;
