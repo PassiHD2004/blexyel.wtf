@@ -85,7 +85,7 @@ function startscramble() {
   let counter = 0
   const next = () => {
     fx.setText(phrases[counter]).then(() => {
-      setTimeout(next, 800)
+      setTimeout(next, 2000)
     })
     counter = (counter + 1) % phrases.length
   }
