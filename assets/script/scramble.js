@@ -69,7 +69,14 @@ function startscramble() {
     'and walking the path',
     'why are you still here?',
     'you should start the ritual now!',
-    'FAGGOT'
+    'dude, START IT NOW',
+    'you are one stubborn person huh?',
+    'jesus christ (not religious btw)',
+    'god doesn\'t allow people like me',
+    'people that like men and women',
+    'you\'re still here?',
+    'oh mah gaod',
+    'okay, bye'
   ]
   
   const el = document.querySelector('.scramble')
